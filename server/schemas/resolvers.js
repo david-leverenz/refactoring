@@ -2,9 +2,10 @@ const { Book, User } = require('../models');
 
 const resolvers = {
   Query: {
-    me: async (parent, { _id }) => {
-      const params = _id ? { _id } : {};
-      return User.find(params);
+    me: async (parent, args, context) => {
+      // Use context (Similar to your express session)
+      // const params = _id ? { _id } : {};
+      return User.find(context.user._id);
     },
 
   },
