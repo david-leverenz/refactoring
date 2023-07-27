@@ -20,7 +20,7 @@ When you click on the Logout button you are logged out of the site and presented
 
 ## Links
 **GitHub:** https://github.com/david-leverenz/react-portfolio<br>
-**Live Link:** https://jovial-jelly-b317eb.netlify.app/#/<br>
+**Live Link:** https://immense-badlands-99002-d67f38579355.herokuapp.com/<br>
 **Screen Shot:** <br>
 
 
