@@ -35,7 +35,7 @@ I cannot get the live link working and will need to consult my instructor.  I'll
 Use this:
 {  "email": "bobby@gmail.com",
   "password": "password"
-}
+} to login
 ### Dependencies
 N/A
 ### Executing program
