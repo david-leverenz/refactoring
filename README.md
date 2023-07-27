@@ -32,7 +32,10 @@ I cannot get the live link working and will need to consult my instructor.  I'll
 
 
 ## Getting Started
-N/A
+Use this:
+{  "email": "bobby@gmail.com",
+  "password": "password"
+}
 ### Dependencies
 N/A
 ### Executing program
