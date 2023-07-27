@@ -36,16 +36,16 @@ export const SAVE_BOOK = gql`
   }
   `;
 
-//   export const REMOVE_BOOK = gql`
-//   mutation removeBook($bookId: ID!, $title: String!, $authors:[String]) {
-//     removeBook(bookId: $bookId, title: $title, authors: $authors) {
-//       _id
-//       username
-//       savedBooks {
-//         _id
-//         title
-//         authors
-//       }
-//     }
-//   }
-// `;
+  export const REMOVE_BOOK = gql`
+  mutation removeBook($bookId: ID!, $title: String!, $authors:[String]) {
+    removeBook(bookId: $bookId, title: $title, authors: $authors) {
+      _id
+      username
+      savedBooks {
+        _id
+        title
+        authors
+      }
+    }
+  }
+`;
