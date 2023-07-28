@@ -14,7 +14,7 @@ This project takes starter code with a fully functioning Google Books API search
 **Working** When you click on the Login/Signup menu option a modal appears on the screen with a toggle between the option to log in or sign up.<br>
 **Working** When the toggle is set to Signup you are presented with three inputs for a username, an email address, and a password, and a signup button.<br>
 **Working** When the toggle is set to Login you are presented with two inputs for an email address and a password and login button.<br>
-**Not Working** When you enter a valid email address and create a password and click on the signup button your user account is created and you are logged in to the site.  This is working on the backend, not on the front.<br>
+**Working** When you enter a valid email address and create a password and click on the signup button your user account is created and you are logged in to the site.  This is working on the backend, not on the front.<br>
 **Not Working** When you enter my account’s email address and password and click on the login button the modal closes and you are logged in to the site. This is working on the backend, not on the front.<br>
 **Working** When you are logged in to the site the menu options change to Search for Books, an option to see my saved books, and Logout.<br>
 **Working** When you are logged in and enter a search term in the input field and click the submit button you are presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site and a button to save a book to your account.<br>
