@@ -5,7 +5,6 @@ This project takes starter code with a fully functioning Google Books API search
 # Grader Note
 1. I was not able to get everything working by the deadline.  I've made notes below in the description for you.
 2. I was unable to set up my repo properly initially and did a lot of coding on the files, before I was able to git add and git commit.  Therefore, there is a huge commit early on and a ton of stuff is added.  I did all of my testing on 7/26 which is where you will see more commits.
-3. The heroku link doesn't work.  I am super frustrated and will work to get this resolved, hopefully before you grade this!  Locally, the things indicate below either work or do not work.
 
 ## Description
 **Working** When you load the search engine you are presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button.<br>
@@ -26,7 +25,6 @@ This project takes starter code with a fully functioning Google Books API search
 ## Links
 **GitHub:** https://github.com/david-leverenz/refactoring<br>
 **Live Link:** https://immense-badlands-99002-d67f38579355.herokuapp.com/<br>
-I cannot get the live link working and will need to consult my instructor.  I'll fix it soon.<br>
 **Screen Shot:** <br>
 ![image](https://github.com/david-leverenz/refactoring/assets/131185593/5afc3299-eb09-4df4-b369-d3075939c8d9)
 
